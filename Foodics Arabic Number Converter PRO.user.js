@@ -6,6 +6,8 @@
 // @author       Omar Saber
 // @match        https://console.foodics.com/*
 // @grant        none
+// @updateURL https://raw.githubusercontent.com/OmarSaber652/Violent-Mankey-Script/main/Foodics-Arabic-Number-Converter-PRO.user.js
+// @downloadURL https://raw.githubusercontent.com/OmarSaber652/Violent-Mankey-Script/main/Foodics-Arabic-Number-Converter-PRO.user.js
 // ==/UserScript==
 
 (function () {
