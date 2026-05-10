@@ -1,13 +1,13 @@
 ﻿// ==UserScript==
 // @name         Vodafone Cash + Advanced Last Items Manager for Foodics
 // @namespace    http://tampermonkey.net/
-// @version      3.9
+// @version      4.0
 // @description  تأكيد فودافون كاش + إدارة احترافية لـ Last Items بقوائم جاهزة وإضافة وحذف متقدم
 // @author       Omar Saber
 // @match        https://console.foodics.com/*
 // @grant        none
-// @updateURL https://raw.githubusercontent.com/OmarSaber652/Vodafone-Cash-Advanced-Last-Items-Manager-for-Foodics/main/foodics-script.user.js
-// @downloadURL https://raw.githubusercontent.com/OmarSaber652/Vodafone-Cash-Advanced-Last-Items-Manager-for-Foodics/main/foodics-script.user.js
+// @updateURL    https://raw.githubusercontent.com/OmarSaber652/Violent-Monkey-Script/master/VodafoneCash+LastItemsManager.user.js
+// @downloadURL  https://raw.githubusercontent.com/OmarSaber652/Violent-Monkey-Script/master/VodafoneCash+LastItemsManager.user.js
 // ==/UserScript==
 
 (function () {
@@ -18,7 +18,7 @@
     const predefinedLastItems = {
         "فته لحمه": [
             "فتة لحم وسط",
-            "فتة لحم كبير",
+            "فتة شاورما لحم كبير",
             "فتة ميكس",
             "لحم سايب",
         ],
@@ -27,7 +27,7 @@
             "فتة فراخ",
             "فتة ميكس",
             "السنجل",
-            "الشيخ",
+            "صينية الشيخ",
             "فتة شاورما دجاج",
             "دجاج سايب"
 
@@ -90,7 +90,7 @@
             "ماريا دجاج",
             "ماريا ميكس",
             "قطعة ميكس",
-            "قطعة دجاج", 
+            "قطعة دجاج",
             "تريبل تيست",
             "بيتزا شاورما دجاج",
             "بيتزا شاورما فراخ",

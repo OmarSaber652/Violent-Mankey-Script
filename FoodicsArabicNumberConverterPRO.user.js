@@ -1,13 +1,13 @@
 ﻿// ==UserScript==
 // @name         Foodics Arabic Number Converter PRO
 // @namespace    http://tampermonkey.net/
-// @version      2.0
+// @version      2.1
 // @description  تحويل الأرقام العربية إلى إنجليزية مع تحديث فوري للبحث في فوديكس
 // @author       Omar Saber
 // @match        https://console.foodics.com/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/OmarSaber652/Violent-Mankey-Script/master/FoodicsArabicNumberConverterPRO.user.js
-// @downloadURL  https://raw.githubusercontent.com/OmarSaber652/Violent-Mankey-Script/master/FoodicsArabicNumberConverterPRO.user.js
+// @updateURL    https://raw.githubusercontent.com/OmarSaber652/Violent-Monkey-Script/master/FoodicsArabicNumberConverterPRO.user.js
+// @downloadURL  https://raw.githubusercontent.com/OmarSaber652/Violent-Monkey-Script/master/FoodicsArabicNumberConverterPRO.user.js
 // ==/UserScript==
 
 (function () {
