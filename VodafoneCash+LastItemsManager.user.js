@@ -1,7 +1,7 @@
 ﻿// ==UserScript==
 // @name         Vodafone Cash + Advanced Last Items Manager for Foodics
 // @namespace    http://tampermonkey.net/
-// @version      4.1
+// @version      4.2
 // @description  تأكيد فودافون كاش + إدارة احترافية لـ Last Items بقوائم جاهزة وإضافة وحذف متقدم
 // @author       Omar Saber
 // @match        https://console.foodics.com/*
@@ -19,6 +19,8 @@
         "فته لحمه": [
             "فتة لحم وسط",
             "فتة شاورما لحم",
+            "فتة شاورما لحم كبير",
+            "فتة شاورما ميكس كبير",
             "فتة شاورما ميكس",
             "فتة ميكس",
             "لحم سايب",
