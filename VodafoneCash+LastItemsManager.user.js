@@ -1,7 +1,7 @@
 ﻿// ==UserScript==
 // @name         Vodafone Cash + Advanced Last Items Manager for Foodics
 // @namespace    http://tampermonkey.net/
-// @version      4.3
+// @version      4.4
 // @description  تأكيد فودافون كاش + إدارة احترافية لـ Last Items بقوائم جاهزة وإضافة وحذف متقدم
 // @author       Omar Saber
 // @match        https://console.foodics.com/*
@@ -18,8 +18,6 @@
     const predefinedLastItems = {
         "فته لحمه": [
             "فتة لحم وسط",
-            "فتة شاورما لحم كبير",
-            "فتة شاورما ميكس كبير",
             "فتة شاورما لحم",
             "فتة شاورما ميكس",
             "فتة ميكس",
